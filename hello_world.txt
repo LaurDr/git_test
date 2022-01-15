@@ -1,0 +1,6 @@
+HELLO WORLD!
+	I wrote this using Vim 
+
+	After i `vim hello_world.txt` and pressed `i` i edited this file.But i also found out that pressing `a` is a better idea. 
+	Afterwards i pressed `:` to use the vim options and used the option `wq` so it saves
+
